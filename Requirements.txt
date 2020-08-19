@@ -1,0 +1,12 @@
+Create a Customer
+
+First name of customer should have only character
+Last name of customer should have only character
+Minimum length of first name should be 3 characters
+Minimum length of last name should be 3 characters
+Age should be positive integer
+Age should have maximum 3 digits
+Email id should be unique
+Gender should be either male or female
+Location should have only characters
+Every customer should have a unique id

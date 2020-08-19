@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+tddCustomerApp,com.DB.customerapp,CustomerAppImpl,15,0,0,0,4,0,2,0,2,0
+tddCustomerApp,com.DB.customerapp,CustomerFactory,7,0,0,0,2,0,2,0,2,0
+tddCustomerApp,com.DB.customerapp,InvalidValueException,0,3,0,0,0,1,0,1,0,1
+tddCustomerApp,com.DB.customerapp,Customer,42,66,1,9,18,11,13,7,12,3
