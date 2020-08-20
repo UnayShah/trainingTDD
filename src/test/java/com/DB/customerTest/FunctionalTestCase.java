@@ -12,8 +12,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
-
 public class FunctionalTestCase {
 
 	// Made static because accessing in beforeTest function, which needs to be
@@ -26,7 +24,7 @@ public class FunctionalTestCase {
 	public static void beforeTest() {
 
 		// Change chrome webdriver path here
-		// Set path according to your PCm"); 
+		// Set path according to your PC" 
 		String chromeWebDriverPath = "E:\\Downloads\\chromedriver.exe";
 		System.setProperty("webdriver.chrome.driver", chromeWebDriverPath);
 		webDriver = new ChromeDriver();

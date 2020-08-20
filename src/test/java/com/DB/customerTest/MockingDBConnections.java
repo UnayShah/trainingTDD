@@ -60,11 +60,13 @@ public class MockingDBConnections {
 	@Test
 	public void test1() {
 		System.out.println("Test1");
+		assert true;
 	};
 
 	@Test
 	public void test2() {
 		System.out.println("Test2");
+		assert true;
 	};
 
 	@Test
