@@ -1,0 +1,7 @@
+organization=unayshah
+projectKey=TDDDemoApp
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.11074
+dashboardUrl=https://sonarcloud.io/dashboard?id=TDDDemoApp
+ceTaskId=AXQLT3TqSzQLaML5JtAZ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXQLT3TqSzQLaML5JtAZ
