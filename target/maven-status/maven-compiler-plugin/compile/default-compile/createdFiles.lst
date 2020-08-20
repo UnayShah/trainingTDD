@@ -1,5 +1,0 @@
-com\DB\customerapp\InvalidValueException.class
-com\DB\customerapp\Customer.class
-com\DB\customerapp\CustomerFactory.class
-com\DB\customerapp\ICustomerApp.class
-com\DB\customerapp\CustomerAppImpl.class
