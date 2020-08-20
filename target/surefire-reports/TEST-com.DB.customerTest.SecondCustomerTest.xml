@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="2" name="com.DB.customerTest.SecondCustomerTest" time="0.002" errors="0" skipped="0">
+<testsuite tests="2" failures="2" name="com.DB.customerTest.SecondCustomerTest" time="0.005" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_251\jre\bin"/>
@@ -65,7 +65,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.DB.customerTest.SecondCustomerTest" name="dummyTestCaseFail1" time="0.001">
+  <testcase classname="com.DB.customerTest.SecondCustomerTest" name="dummyTestCaseFail1" time="0.005">
     <failure type="java.lang.AssertionError">java.lang.AssertionError
 	at org.junit.Assert.fail(Assert.java:87)
 	at org.junit.Assert.fail(Assert.java:96)
@@ -103,10 +103,8 @@
 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
 </failure>
-    <system-out>Gets called only once, after the tests run.
-</system-out>
   </testcase>
-  <testcase classname="com.DB.customerTest.SecondCustomerTest" name="dummyTestCaseFail2" time="0.001">
+  <testcase classname="com.DB.customerTest.SecondCustomerTest" name="dummyTestCaseFail2" time="0">
     <failure type="java.lang.AssertionError">java.lang.AssertionError
 	at org.junit.Assert.fail(Assert.java:87)
 	at org.junit.Assert.fail(Assert.java:96)
